@@ -1,0 +1,4 @@
+blog
+====
+
+Another links blog
